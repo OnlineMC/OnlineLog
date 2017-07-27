@@ -1,0 +1,12 @@
+version: 1.1
+#记录频率 单位/分钟
+time: 10
+
+#是否在控制台显示在线玩家信息
+echoOnlineLog: false
+
+#服务器无人在线时 不会向控制台输出日志(如果启用上面那项的话)
+continueLog: true
+
+#服务器无人在线时 不会写入日志
+continueSave: true
